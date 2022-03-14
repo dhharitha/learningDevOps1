@@ -1,0 +1,8 @@
+advantages of git
+track history
+free & open source
+supports non linear development
+creates backup
+scalable
+supports collaboration
+branching is easier
